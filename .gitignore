@@ -7,3 +7,13 @@ build/
 dist/
 *.egg-info/
 *.egg/
+
+# .npy files
+tutorials/ftrajs.npy
+tutorials/oasis_trajs.npy
+tutorials/bootstrap_TPM.npy
+
+# igme, gmsm files
+tutorials/igme.py
+tutorials/qmsm.py
+tutorials/VAMPNet_SRVNet.py
